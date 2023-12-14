@@ -7,9 +7,8 @@
 
 # 1. ✅ Create a Pet class
 
+
 # Note: Add 'pass' to the Pet class
-
-
 class Pet:
     all = []
 
